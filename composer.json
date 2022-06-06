@@ -15,5 +15,11 @@
         "psr-4": {
             "PrudnikovaStud\\Greeter\\" : "src/"
         }
-    }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    },
+    "version": "1.0.0"
 }
