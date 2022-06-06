@@ -1,0 +1,10 @@
+{
+    "name": "user/mypa",
+    "authors": [
+        {
+            "name": "elizpacific",
+            "email": "elizpacific@gmail.com"
+        }
+    ],
+    "require": {}
+}
